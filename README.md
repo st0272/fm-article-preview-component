@@ -27,16 +27,16 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop
+Desktop 
 ![desktop](./design/desktop.png) 
 
-Mobile
+Mobile 
 ![mobile](./design/mobile.png)
 
 ### Links
 
 - Solution URL: [Article preview component solution](https://github.com/st0272/fm-article-preview-component)
-- Live Site URL: [Article preview component solution](https://st0272.github.com/fm-article-preview-component)
+- Live Site URL: [Article preview component solution](https://st0272.github.io/fm-article-preview-component)
 
 ## My process
 
